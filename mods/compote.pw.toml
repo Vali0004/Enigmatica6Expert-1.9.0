@@ -1,0 +1,13 @@
+name = "Compote"
+filename = "Compote-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1b705614eb10683ad5d0a2bee93daf2df7f9959"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3193714
+project-id = 432111

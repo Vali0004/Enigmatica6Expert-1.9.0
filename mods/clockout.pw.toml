@@ -1,0 +1,13 @@
+name = "Clockout"
+filename = "clockout-1.16.4-2.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96b73a2a14b9fe6ffaf67a2630af008a843cfc67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3120864
+project-id = 357108

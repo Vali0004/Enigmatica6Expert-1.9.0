@@ -1,0 +1,13 @@
+name = "Enigmatica6Expert"
+author = "EnigmaticaModpacks"
+version = "1.9.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae7c3973548992e3b2598bc8199895a27992f4ba95fc415abe021ef42bc02c31"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"

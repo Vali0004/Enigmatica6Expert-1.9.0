@@ -1,0 +1,13 @@
+name = "Refined Crafter Proxy"
+filename = "refinedcrafterproxy-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fc9bea1d29f6bbe156f03e9eadcbfa76db22202"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581365
+project-id = 864695

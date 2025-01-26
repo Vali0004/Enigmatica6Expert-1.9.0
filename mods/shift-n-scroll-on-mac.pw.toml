@@ -1,0 +1,13 @@
+name = "Shift n Scroll on Mac (Forge Only)"
+filename = "shiftnscrollonmac-1.16.4-0.0.1.s1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62747e854d94432761df63dce94969592ed7b7b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3164842
+project-id = 435051

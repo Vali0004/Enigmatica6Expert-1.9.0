@@ -1,0 +1,13 @@
+name = "More Crafting Tables for Forge!"
+filename = "[1.16.5]_More_Crafting _Tables_Forge_2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d78b34e08b66150037438be91240f8650e148a27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4734101
+project-id = 417365

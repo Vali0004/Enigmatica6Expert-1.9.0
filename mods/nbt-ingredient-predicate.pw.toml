@@ -1,0 +1,13 @@
+name = "NBT Ingredient Predicate"
+filename = "NBT-Ingredient-Predicate-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "405cee3be36f2d301160178c0a0246562189b2a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3425361
+project-id = 514397

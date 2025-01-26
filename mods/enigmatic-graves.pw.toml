@@ -1,0 +1,13 @@
+name = "Enigmatic Graves"
+filename = "EnigmaticGraves-1.16.5-1.7.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75a831af1e0333fffc97799d2a9944a2261e9e3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591062
+project-id = 496030

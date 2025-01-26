@@ -1,0 +1,13 @@
+name = "Enigmatica Companion Mod"
+filename = "enigmatica-1.16.3-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32195e6b828780cf400402df16326382566a53f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3085736
+project-id = 372372

@@ -1,0 +1,13 @@
+name = "Shrink."
+filename = "Shrink-1.16.5-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7e93c9ad49f4181c2d20d4f64d8655a31c81e65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3526532
+project-id = 426386

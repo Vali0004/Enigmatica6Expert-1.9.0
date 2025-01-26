@@ -1,0 +1,13 @@
+name = "Tamed Summon"
+filename = "tamedsummon-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac76e1454b0da11c44d2a96b5522a21549e99433"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3152348
+project-id = 432032

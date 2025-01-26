@@ -1,0 +1,13 @@
+name = "The Official Enigmatica Resource Pack"
+filename = "ERP-1.9.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54021c5d3edb6f374f500234075dad8e12d5a2a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3510421
+project-id = 390898

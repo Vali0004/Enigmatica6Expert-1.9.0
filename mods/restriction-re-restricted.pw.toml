@@ -1,0 +1,13 @@
+name = "Restriction: Re-Restricted"
+filename = "restriction-1.16.5-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b64eb58d7db4947cad859255facbb3abb07eceb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3681090
+project-id = 423547

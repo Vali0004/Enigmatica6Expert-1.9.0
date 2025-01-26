@@ -1,0 +1,13 @@
+name = "Quickstack"
+filename = "quickstack-1.16.5-4.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee07541d595d4488aa51a58f57ee394690be7efc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3898545
+project-id = 354522

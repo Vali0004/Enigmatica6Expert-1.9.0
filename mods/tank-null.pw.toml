@@ -1,0 +1,13 @@
+name = "/tank/null"
+filename = "tanknull-2.3-1.16.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82eb98197babc21ed7e22a010a917463e6e67c59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3224872
+project-id = 361246

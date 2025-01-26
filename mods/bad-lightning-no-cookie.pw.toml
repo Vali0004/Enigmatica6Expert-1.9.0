@@ -1,0 +1,13 @@
+name = "Bad Lightning No Cookie"
+filename = "badlightningnocookie-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81b8bb6d34415d1bf716988b444f45c917609a8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3541541
+project-id = 551123

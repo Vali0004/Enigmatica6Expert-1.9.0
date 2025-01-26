@@ -1,0 +1,13 @@
+name = "Config Swapper"
+filename = "configswapper-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b6a28c11d5e4da0272ca25cbed0618f1a6db5ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683079
+project-id = 409429

@@ -1,0 +1,13 @@
+name = "Nature's Starlight"
+filename = "NaturesStarlight-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caba1340c94338cdb9ebfd63e8cf1caf041d573a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036406
+project-id = 466739

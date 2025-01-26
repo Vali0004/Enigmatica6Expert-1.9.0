@@ -1,0 +1,13 @@
+name = "Tool Stats"
+filename = "ToolStats-1.16.5-6.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84752cf35a8a7407e1c41cfbce72804b711b76ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4457857
+project-id = 377109

@@ -1,0 +1,13 @@
+name = "Masterful Machinery"
+filename = "MasterfulMachinery-1.16.5-0.1.68-B1105.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02814cca1735d820fe1b0182cbab5efb9c49e8cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4082604
+project-id = 423476

@@ -1,0 +1,13 @@
+name = "Can't Sleep Clowns Will Eat Me"
+filename = "cant-sleep-clowns-will-eat-me-1.16.4-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d07b073e2eb2beb864f7d16b8727f8ab3dffc87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3155313
+project-id = 430957

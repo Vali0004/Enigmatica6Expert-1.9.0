@@ -1,0 +1,13 @@
+name = "Magic Feather"
+filename = "magicfeather-1.16.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c09ce3c61915dec2f0a28da97111a0688b8898f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3224434
+project-id = 284745
