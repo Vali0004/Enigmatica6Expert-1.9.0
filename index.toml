@@ -12344,11 +12344,6 @@ hash = "8f61f59e08334d7ad9d600b9bc19da4e61a06ac156a9aa838ff9e5f089985f78"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "83dd1ce64df9a012930da1ff2d80cc4f2a68af72ec570f3232caf54d25858d46"
-metafile = true
-
-[[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "9c1fdb9cb126db06a28258b93be1f2e7bd7c26ee1b480daa4dc003d1709f9eb1"
 metafile = true
